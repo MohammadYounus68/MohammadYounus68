@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Abu Mohammad Younus(Saurav).
 #### I am Web Developer and Competitive Programmer.
-![I am Web Developer and Competitive Programmer.](https://media.licdn.com/dms/image/v2/C4E16AQFsCDZrHpPfFg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659534282131?e=1739404800&v=beta&t=NjZHfoPrKEUtdL3s5k9-5c1pFf1WgFOxhagrUaMihM4)
+![I am Web Developer and Competitive Programmer.
 
 A proactive BSC in CSE student at the Stamford University Bangladesh with strong academic achievement with volunteering experience. To pursue a professional career where my skills and creativity can utilize in maximizing company profit while providing career advancement opportunities.
 
