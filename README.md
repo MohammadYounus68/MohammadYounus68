@@ -1,7 +1,5 @@
-
-**MohammadYounus68/MohammadYounus68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+###### Hi am a Abu Mohammad Younus (Saurav).
+#MohammadYounus68
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
