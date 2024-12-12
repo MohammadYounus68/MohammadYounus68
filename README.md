@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/v2/C4E16AQFsCDZrHpPfFg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659534282131?e=1739404800&v=beta&t=NjZHfoPrKEUtdL3s5k9-5c1pFf1WgFOxhagrUaMihM4)
+https://mohammad-younus-portfolio.netlify.app/assets/images/avatar.jpg
 # Hi there 👋, My name is Abu Mohammad Younus(Saurav).
 #### I am Web Developer and Competitive Programmer.
 
