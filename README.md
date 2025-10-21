@@ -2,7 +2,6 @@
 #### I am Web Developer and Competitive Programmer.
 ##### My Portfolio:https://mohammad-younus-portfolio.netlify.app/
 ![](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/464929636_8781748398514106_1606701564028972795_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=JbYhM3ANMXUQ7kNvgHhK0XK&_nc_zt=23&_nc_ht=scontent.fdac80-1.fna&_nc_gid=AlHXrTTpvyxNrj5U1GxiJCg&oh=00_AYBQkVVCELum1AlS7G-1fMuS007uXMbrHB1bKA3CAOtBCw&oe=67611281)
-
 I am Abu Younus — a Computer Science student at Stamford University Bangladesh. I have over 5 years of experience in Competitive Programming, with a strong passion for algorithms, data structures, and problem solving. I love writing clean, efficient code and continuously improving my skills through contests, projects, and collaboration with the programming community.
 
 Skills: HTML / CSS / PHP/ C++ / JS / REACT
