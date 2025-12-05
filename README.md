@@ -142,12 +142,6 @@ Love solving problems, building products, and learning new technologies every da
     alt="GitHub Stats"
   />
 
-  <!-- Streak (new domain) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=AbuYounuss&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-
   <!-- Top Languages (alt domain) -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbuYounuss&layout=compact&theme=tokyonight"
