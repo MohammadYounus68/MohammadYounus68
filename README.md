@@ -1,17 +1,7 @@
-<!-- ========== GRADIENT CODING BANNER (WORKS ON GITHUB) ========== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4C1D95,50:0EA5E9,100:22C55E&text=Abu%20Younus&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=75"
-    alt="Abu Younus Gradient Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E1E2E,50:4C1D95,75:0EA5E9,100:10B981&text=Abu%20Younus&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=600&lines=Abu+Younus;Full-Stack+Developer;Code.+Create.+Inspire."
-    alt="Typing Intro"
-  />
-</p>
 
 
 
