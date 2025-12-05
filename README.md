@@ -1,14 +1,24 @@
-<!-- ===================== HEADER BANNER (DARK/LIGHT MODE) ===================== -->
+<!-- ===================== CODING THEMED HEADER BANNER ===================== -->
 <p align="center">
   <picture>
     <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:020617&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=38BDF8&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
+    />
     <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:ECFEFF&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=020617&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=0F172A&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
+    />
     <!-- Fallback -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn" alt="Abu Younus Banner" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:020617&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=38BDF8&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
+      alt="Abu Younus Coding Banner"
+    />
   </picture>
 </p>
+
 
 <div align="center">
 
