@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Abu Younuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abu Younuss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu Younuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuYounuss&commits_year=2025)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abu Younuss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
