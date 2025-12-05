@@ -1,18 +1,6 @@
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E1E2E,50:4C1D95,75:0EA5E9,100:10B981&text=Abu%20Younus&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=twinkling" />
-  <div align="center">
-
-### 👋 I am **Abu Younus**  
-#### *(Full Name: Abu Mohammad Younus — Saurav)*  
-
-Aspiring **Full-Stack Developer** | Focused on **MERN, Laravel, Django & Modern Frontend**  
-Love solving problems, building products, and learning new technologies every day 🚀  
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+Laravel+%7C+Django;Competitive+Programmer+(LeetCode+%2F+Codeforces);ML+%2F+Deep+Learning+Explorer;Always+learning+new+things" alt="Typing SVG" />
-
-</div>
 </p>
 </div>
 
