@@ -173,10 +173,36 @@ Love solving problems, building products, and learning new technologies every da
 
 ---
 
-## 🐍 Snake GitHub Contribution Animation
+name: Generate GitHub Contribution Snake
 
-> 👉 **Important:** To make this work, you must set up the Snake GitHub Action in  
-> `AbuYounuss/AbuYounuss` → `.github/workflows/snake.yml`. After that, the image below will show your animated contributions.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Every day at 00:00 UTC
+  workflow_dispatch:      # Manual run support
+  push:
+    branches:
+      - main
+      - master
 
-```md
-![GitHub Contribution Snake](https://github.com/AbuYounuss/AbuYounuss/blob/output/github-contribution-grid-snake.svg)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AbuYounuss
+          outputs: |
+            dist/github-contribution-snake.svg
+
+      - name: Push Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
