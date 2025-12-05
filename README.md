@@ -1,26 +1,18 @@
-<!-- ===================== MODERN GRADIENT CODING BANNER ===================== -->
+<!-- ========== GRADIENT CODING BANNER (WORKS ON GITHUB) ========== -->
 <p align="center">
-  <picture>
-
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=0,20,50,70,90&fontColor=38BDF8&text=&fontSize=0" />
-
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=200,220,240,180,150&fontColor=0F172A&text=&fontSize=0" />
-
-    <!-- Fallback -->
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=0,20,50,70,90&fontColor=38BDF8&text=&fontSize=0" />
-
-  </picture>
-
-  <!-- Animated Name Typing Inside Banner -->
-  <div style="margin-top:-140px;">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=38BDF8&center=true&vCenter=true&width=600&lines=Abu+Younus;Full-Stack+Developer;Code.+Create.+Inspire." />
-  </div>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4C1D95,50:0EA5E9,100:22C55E&text=Abu%20Younus&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=75"
+    alt="Abu Younus Gradient Banner"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=600&lines=Abu+Younus;Full-Stack+Developer;Code.+Create.+Inspire."
+    alt="Typing Intro"
+  />
+</p>
+
 
 
 <div align="center">
