@@ -1,3 +1,27 @@
+<!-- ===================== MODERN GRADIENT CODING BANNER ===================== -->
+<p align="center">
+  <picture>
+
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=0,20,50,70,90&fontColor=38BDF8&text=&fontSize=0" />
+
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=200,220,240,180,150&fontColor=0F172A&text=&fontSize=0" />
+
+    <!-- Fallback -->
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&color=gradient&customColorList=0,20,50,70,90&fontColor=38BDF8&text=&fontSize=0" />
+
+  </picture>
+
+  <!-- Animated Name Typing Inside Banner -->
+  <div style="margin-top:-140px;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=38BDF8&center=true&vCenter=true&width=600&lines=Abu+Younus;Full-Stack+Developer;Code.+Create.+Inspire." />
+  </div>
+
+</p>
+
 
 <div align="center">
 
