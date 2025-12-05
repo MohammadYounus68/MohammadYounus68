@@ -1,24 +1,3 @@
-<!-- ===================== CODING THEMED HEADER BANNER ===================== -->
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:020617&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=38BDF8&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
-    />
-    <!-- Light mode -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=0F172A&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
-    />
-    <!-- Fallback -->
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:020617&text=Abu%20Younus&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=38BDF8&animation=twinkling&desc=💻%20Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descAlign=50&descAlignY=70"
-      alt="Abu Younus Coding Banner"
-    />
-  </picture>
-</p>
-
 
 <div align="center">
 
