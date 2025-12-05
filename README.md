@@ -1,27 +1,17 @@
-<!-- ===================== HEADER BANNER (DARK/LIGHT MODE) ===================== -->
+<!-- ===================== CODING THEMED BANNER ===================== -->
 <p align="center">
   <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:ECFEFF&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=020617&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
+    <!-- Dark Mode Banner -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
+    
+    <!-- Light Mode Banner -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,100:DBEAFE&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=0F172A&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
+
     <!-- Fallback -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn" alt="Abu Younus Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
   </picture>
 </p>
 
-<div align="center">
-
-### 👋 I am **Abu Younus**  
-#### *(Full Name: Abu Mohammad Younus — Saurav)*  
-
-Aspiring **Full-Stack Developer** | Focused on **MERN, Laravel, Django & Modern Frontend**  
-Love solving problems, building products, and learning new technologies every day 🚀  
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+Laravel+%7C+Django;Competitive+Programmer+(LeetCode+%2F+Codeforces);ML+%2F+Deep+Learning+Explorer;Always+learning+new+things" alt="Typing SVG" />
-
-</div>
 
 ---
 
@@ -88,7 +78,7 @@ Love solving problems, building products, and learning new technologies every da
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=orange)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
