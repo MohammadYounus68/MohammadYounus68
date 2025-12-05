@@ -134,22 +134,28 @@ Love solving problems, building products, and learning new technologies every da
 
 ## 📊 GitHub Contribution Stats
 
-> ⚠️ **Note:** If these cards don't load instantly, it's usually due to `github-readme-stats` rate limit. The code is correct; try refreshing later.
-
 <div align="center">
 
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuYounuss&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <!-- Overall Stats (alt domain) -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbuYounuss&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbuYounuss&theme=tokyonight" height="160" alt="GitHub Streak" />
+  <!-- Streak (new domain) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=AbuYounuss&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuYounuss&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuYounuss" />
-
+  <!-- Top Languages (alt domain) -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbuYounuss&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 
 </div>
+
 
 ---
 
