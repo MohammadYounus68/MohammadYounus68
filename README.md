@@ -146,6 +146,8 @@ Love solving problems, building products, and learning new technologies every da
 
   <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuYounuss&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuYounuss" />
+
 
 </div>
 
