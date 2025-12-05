@@ -1,18 +1,29 @@
-<!-- ===================== CODING THEMED BANNER ===================== -->
+<!-- ===================== HEADER BANNER (DARK/LIGHT MODE) ===================== -->
 <p align="center">
   <picture>
-    <!-- Dark Mode Banner -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
-    
-    <!-- Light Mode Banner -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,100:DBEAFE&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=0F172A&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
-
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:ECFEFF&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=020617&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn">
     <!-- Fallback -->
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&text=💻%20Coding%20My%20Dreams%20Into%20Reality&fontSize=32&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ML%20Explorer&descAlignY=75&descSize=18">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=230&section=header&text=Abu%20Younus&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&animation=fadeIn" alt="Abu Younus Banner" />
   </picture>
 </p>
 
+<div align="center">
 
+### 👋 I am **Abu Younus**  
+#### *(Full Name: Abu Mohammad Younus — Saurav)*  
+
+Aspiring **Full-Stack Developer** | Focused on **MERN, Laravel, Django & Modern Frontend**  
+Love solving problems, building products, and learning new technologies every day 🚀  
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node+%7C+Laravel+%7C+Django;Competitive+Programmer+(LeetCode+%2F+Codeforces);ML+%2F+Deep+Learning+Explorer;Always+learning+new+things" alt="Typing SVG" />
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
